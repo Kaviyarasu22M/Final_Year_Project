@@ -1,4 +1,4 @@
-**AI-Based Smart Blind Stick for Real-Time Obstacle Detection and Object Recognition with Voice Assistance**
+Title: **AI-Based Smart Blind Stick for Real-Time Obstacle Detection and Object Recognition with Voice Assistance**
 
 • Developed an AI-powered smart blind stick improving obstacle detection accuracy by 90%.
 
